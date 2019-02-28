@@ -1,0 +1,16 @@
+.cookie-info-section {
+  background: rgba(0, 0, 0, 0.1);
+  text-align: left;
+  font-size: 1em;
+  font-family: initial;
+  font-weight: normal;
+}
+.close-button {
+  display: block;
+  float: right;
+  cursor: pointer;
+}
+
+.not-display {
+  display: none;
+}
